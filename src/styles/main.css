@@ -1,0 +1,17 @@
+main{
+    padding-block: 2rem;
+    min-height: 100dvh;
+}
+
+.login-container{
+}
+
+.login-card{
+    max-width: 512px;
+}
+
+.lista-vagas-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
